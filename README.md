@@ -32,7 +32,11 @@ Você pode abrir e rodar este repositório diretamente no navegador usando o Git
 4. Compile e execute os arquivos Java normalmente.
 
 ---
-
+## 📚 Pré-requisitos
+* JDK 21 ou superior
+* Extensões recomendadas:
+    - **Language Support for Java**
+    - **Conventional Commits**
 ## ⚙️ Preparação do Ambiente
 
 O Codespaces já vem com o Java pré-instalado. Mas, se quiser rodar localmente, instale:
