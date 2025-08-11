@@ -12,5 +12,7 @@ public class DistanceCalculation {
         double radians = Math.toRadians(a);
         double d = (Math.pow(v, 2) * Math.sin(2 * radians)) / g;
         System.out.printf("A distancia maxima atingida e: %.2f metros%n", d);
+
+        scanner.close();
     }
 }
